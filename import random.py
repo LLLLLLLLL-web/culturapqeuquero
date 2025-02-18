@@ -11,5 +11,6 @@ if luiz > joaomarcelo:
 else:
     print("João Marcelo 1° Colocado!")
     print("Luiz 2° Colocado!")
+# Não edite
 
 
